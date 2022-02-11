@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is D0C0-51A8
+
+ Directory of C:\Users\GOURAB\Desktop\MyProject
+
+11-02-2022  04:30 PM    <DIR>          .
+11-02-2022  04:30 PM    <DIR>          ..
+11-02-2022  04:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  471,700,910,080 bytes free
